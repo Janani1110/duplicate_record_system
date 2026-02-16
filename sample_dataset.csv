@@ -1,0 +1,52 @@
+id,name,email,phone,address
+1,John Smith,john.smith@gmail.com,9876543210,New York
+2,Jhon Smith,johnsmith@gmail.com,9876543210,New York
+3,Jane Doe,jane.doe@email.com,9123456780,California
+4,Jane D.,janedoe@email.com,9123456780,California
+5,Robert Brown,robert.brown@mail.com,9001112223,Texas
+6,Rob Brown,rob.brown@mail.com,9001112223,Texas
+7,Jon Smith,john.smith@gmail.com,9876543210,New York
+8,Johnny Smith,johnny.smith@gmail.com,987-654-3210,New York
+9,Jane Doe ,jane.doe@email.com,9123456780,California
+10,Janet Doe,janedoe@email.com,9123456780,California
+11,Robert Brown ,robert.brown@mail.com,(900)1112223,Texas
+12,Bob Brown,rob.brown@mail.com,9001112223,Texas
+13,Alice Johnson,alice.johnson@mail.com,9012345678,Florida
+14,Alice Jonson,alicejohnson@mail.com,9012345678,Florida
+15,ALICE JOHNSON,alice.johnson@mail.com,9012345678,Florida
+16,Michael Lee,michael.lee@gmail.com,9988776655,Nevada
+17,Micheal Lee,michaellee@gmail.com,9988776655,Nevada
+18,Sarah Connor,sarah.connor@mail.com,9345678123,Arizona
+19,Sara Conor,sarahconnor@mail.com,9345678123,Arizona
+20,David Miller,david.miller@mail.com,9554433221,Ohio
+21,Dave Miller,david.miller@mail.com,955-443-3221,Ohio
+22,Priya Sharma,priya.sharma@gmail.com,8899123456,Mumbai
+23,Arjun Mehta,arjun.mehta@yahoo.com,9811122233,Delhi
+24,Rahul Verma,rahul.verma@outlook.com,9000012345,Bangalore
+25,Neha Kapoor,neha.kapoor@gmail.com,7765432190,Pune
+26,Karthik Reddy,karthik.reddy@mail.com,9845012345,Hyderabad
+27,Sneha Iyer,sneha.iyer@gmail.com,8754433221,Chennai
+28,Arjun Mehtha,arjunmehta@yahoo.com,9811122233,Delhi
+29,Riya Singh,riya.singh@mail.com,8899776655,Jaipur
+30,Priyaa Sharma,priyasharma@gmail.com,8899123456,Mumbai
+31,Vikram Patel,vikram.patel@mail.com,9123409876,Ahmedabad
+32,Karthik R.,karthik.reddy@mail.com,9845012345,Hyderabad
+33,Aman Gupta,aman.gupta@gmail.com,9988123456,Lucknow
+34,Neha Kapoorr,neha.kapoor@gmail.com,7765432190,Pune
+35,Daniel Thomas,daniel.thomas@mail.com,9870011223,Kochi
+36,Rahul V.,rahul.verma@outlook.com,9000012345,Bangalore
+37,Anjali Desai,anjali.desai@gmail.com,9090901234,Surat
+38,Marcus Allen,marcus.allen@mail.com,7700112233,Boston
+39,Rohan Kulkarni,rohan.kulkarni@outlook.com,8877665544,Nagpur
+40,Emily Clark,emily.clark@gmail.com,6655443322,Seattle
+41,Anjali D.,anjalidesai@gmail.com,9090901234,Surat
+42,Marc Allen,marcus.allen@mail.com,7700112233,Boston
+43,Divya Nair,divya.nair@mail.com,9123098765,Trivandrum
+44,Rohan K.,rohan.kulkarni@outlook.com,8877665544,Nagpur
+45,Christopher Stone,chris.stone@gmail.com,8011223344,Denver
+46,Chris Stone,christopher.stone@gmail.com,8011223344,Denver
+47,Meera Joshi,meera.joshi@yahoo.com,9786501234,Indore
+48,Meeraa Joshi,meerajoshi@yahoo.com,9786501234,Indore
+49,Liam Johnson,liam.johnson@mail.com,7344556677,Chicago
+50,Olivia Martin,olivia.martin@gmail.com,8455667788,Austin
+51,Rohit Bansal,rohit.bansal@gmail.com,9933445566,Noida
